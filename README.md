@@ -20,8 +20,4 @@ The system is simulated over a 120-minute period, and key metrics like **wait ti
 - **Bottleneck Identification**: Analyzes which station (order, payment, or pickup) is causing the longest wait times.
 - **Optimization**: Varying key parameters (e.g., number of stations, customer arrival rates) to find the most efficient configuration.
   
-## Setup
 
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/drive-thru-dynamics.git
